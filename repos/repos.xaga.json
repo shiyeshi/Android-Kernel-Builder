@@ -4,7 +4,7 @@
       "name": "Realking_Xiaomi_xaga",
       "repo": "https://github.com/Rohail33/Realking_xiaomi_xaga",
       "branch": "stable",
-      "device": "rubens",
+      "device": "xaga",
       "defconfig": "xaga_defconfig"
     },
     "withKernelSU": false,
